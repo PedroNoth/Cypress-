@@ -1,0 +1,14 @@
+{
+  "name": "primeiro-teste",
+  "version": "1.0.0",
+  "description": "Primeiro Projeto Com Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Pedro Henrique Dos Santos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
